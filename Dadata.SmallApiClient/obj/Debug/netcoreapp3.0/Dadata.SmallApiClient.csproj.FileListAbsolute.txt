@@ -1,0 +1,7 @@
+C:\Users\St.Anger\source\repos\Сounterparty\Dadata.SmallApiClient\bin\Debug\netcoreapp3.0\Dadata.SmallApiClient.deps.json
+C:\Users\St.Anger\source\repos\Сounterparty\Dadata.SmallApiClient\bin\Debug\netcoreapp3.0\Dadata.SmallApiClient.dll
+C:\Users\St.Anger\source\repos\Сounterparty\Dadata.SmallApiClient\obj\Debug\netcoreapp3.0\Dadata.SmallApiClient.AssemblyInfoInputs.cache
+C:\Users\St.Anger\source\repos\Сounterparty\Dadata.SmallApiClient\obj\Debug\netcoreapp3.0\Dadata.SmallApiClient.AssemblyInfo.cs
+C:\Users\St.Anger\source\repos\Сounterparty\Dadata.SmallApiClient\bin\Debug\netcoreapp3.0\Dadata.SmallApiClient.pdb
+C:\Users\St.Anger\source\repos\Сounterparty\Dadata.SmallApiClient\obj\Debug\netcoreapp3.0\Dadata.SmallApiClient.dll
+C:\Users\St.Anger\source\repos\Сounterparty\Dadata.SmallApiClient\obj\Debug\netcoreapp3.0\Dadata.SmallApiClient.pdb

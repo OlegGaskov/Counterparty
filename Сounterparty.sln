@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counterparty.Api", "Counterparty.Api\Counterparty.Api.csproj", "{AFAE5B5A-16DE-4C8D-8716-9DD437F8C186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dadata.SmallApiClient", "Dadata.SmallApiClient\Dadata.SmallApiClient.csproj", "{AF866777-AC6E-4490-A78A-2B5CFA906216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFAE5B5A-16DE-4C8D-8716-9DD437F8C186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAE5B5A-16DE-4C8D-8716-9DD437F8C186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAE5B5A-16DE-4C8D-8716-9DD437F8C186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAE5B5A-16DE-4C8D-8716-9DD437F8C186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF866777-AC6E-4490-A78A-2B5CFA906216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF866777-AC6E-4490-A78A-2B5CFA906216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF866777-AC6E-4490-A78A-2B5CFA906216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF866777-AC6E-4490-A78A-2B5CFA906216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC5F3380-C12D-467A-927D-4F1E49C626B8}
+	EndGlobalSection
+EndGlobal

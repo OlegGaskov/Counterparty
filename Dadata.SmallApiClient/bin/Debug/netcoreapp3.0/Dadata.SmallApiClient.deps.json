@@ -1,0 +1,134 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Dadata.SmallApiClient/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "3.1.1",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "Dadata.SmallApiClient.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.100.119.61404"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/3.1.1": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.1",
+          "Microsoft.Extensions.Primitives": "3.1.1",
+          "System.ComponentModel.Annotations": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.100.119.61404"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.1": {
+        "dependencies": {
+          "System.Memory": "4.5.2",
+          "System.Runtime.CompilerServices.Unsafe": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.100.119.61404"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "System.ComponentModel.Annotations/4.7.0": {
+        "runtime": {
+          "lib/netstandard2.1/System.ComponentModel.Annotations.dll": {
+            "assemblyVersion": "4.3.1.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "System.Memory/4.5.2": {},
+      "System.Runtime.CompilerServices.Unsafe/4.7.0": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.6.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dadata.SmallApiClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uKZr5b4w9nQE6UAXS4PqBFbg2qe6kS+pdsCbDG2kHjUaWT/B7EOcDraoR52H/4BoBIEH3By5co6Wioru7+v9Zg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.1",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.3.1.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p2faCNhzXyG5oLLOV8n8dwg2rfqS4aRpIWu4qgwZMq+al3133mAQ+Hb822iwRoj3qnKM8zY4A6Jz/Vm/xWHvrA==",
+      "path": "microsoft.extensions.options/3.1.1",
+      "hashPath": "microsoft.extensions.options.3.1.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tC5Eo5DbJA+NgiIw26R5c97N02tFvtfqstUxqb/4qXPLXI2IAIWSMUkh/1c9Gw59TT9hNkLwlmLErSPlHgyJVQ==",
+      "path": "microsoft.extensions.primitives/3.1.1",
+      "hashPath": "microsoft.extensions.primitives.3.1.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0YFqjhp/mYkDGpU0Ye1GjE53HMp9UVfGN7seGpAMttAC0C40v5gw598jCgpbBLMmCo0E5YRLBv5Z2doypO49ZQ==",
+      "path": "system.componentmodel.annotations/4.7.0",
+      "hashPath": "system.componentmodel.annotations.4.7.0.nupkg.sha512"
+    },
+    "System.Memory/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fvq1GNmUFwbKv+aLVYYdgu/+gc8Nu9oFujOxIjPrsf+meis9JBzTPDL6aP/eeGOz9yPj6rRLUbOjKMpsMEWpNg==",
+      "path": "system.memory/4.5.2",
+      "hashPath": "system.memory.4.5.2.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IpU1lcHz8/09yDr9N+Juc7SCgNUz+RohkCQI+KsWKR67XxpFr8Z6c8t1iENCXZuRuNCc4HBwme/MDHNVCwyAKg==",
+      "path": "system.runtime.compilerservices.unsafe/4.7.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512"
+    }
+  }
+}
